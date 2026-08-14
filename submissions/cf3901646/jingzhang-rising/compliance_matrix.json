@@ -38,13 +38,11 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "BEIJING-GEN-AI-POLICY",
+        "HAIDIAN-EMBODIED-AI-PLAN",
+        "BEIJING-DATA-PILOT-ZONE-PLAN"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -93,13 +91,11 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035",
+        "MOHURD-URBAN-DESIGN-MEASURES",
+        "MNR-LAND-USE-CLASSIFICATION"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -148,13 +144,11 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-SEVENTH-CENSUS-DATA",
+        "BARRIER-FREE-ENVIRONMENT-LAW",
+        "ELDERLY-SMART-TECH-PLAN-2020-45"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -203,13 +197,11 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
         "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035",
+        "BEIJING-GEN-AI-POLICY"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -258,13 +250,11 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
         "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035",
+        "JINGZHANG-HERITAGE-PARK-GUIDELINES"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -313,13 +303,11 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "KEY-AREA-SOURCE",
+        "MOHURD-CONTROL-DETAILED-PLANNING",
+        "BEIJING-TOD-MICRO-CENTER-POLICY"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -368,13 +356,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -423,13 +407,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -478,13 +458,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -533,13 +509,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -588,13 +560,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -643,13 +611,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -698,13 +662,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -753,13 +713,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -808,13 +764,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -863,13 +815,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -918,13 +866,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -973,13 +917,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -1029,13 +969,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -1083,13 +1019,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -1138,13 +1070,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -1193,13 +1121,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -1248,13 +1172,9 @@
         "核心指标"
       ],
       "source_ids": [
-        "SITE-PACKAGE",
-        "SOURCE-REGISTRY",
-        "PROCESSED-FACT-PACK",
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
-        "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "HAIDIAN-ZONING-PLAN-2035"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
