@@ -50,7 +50,7 @@
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "22becff413e31397c87c234aca042e4f6ceef0b0b1cc2280de02680d8dc81016"
+      "sha256": "fc48b134f976ee6576edac6c3496cab0518fb0f2d5832f29ad45ef6464dfd4c0"
     },
     {
       "path": "self_check.json",
