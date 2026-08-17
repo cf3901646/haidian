@@ -133,6 +133,102 @@
       "usage": "背景参照：智能化服务与传统服务渠道并行的政策背景，以及出行、就医、消费、文娱、办事等高频场景的表述。",
       "usable_for": "background_only：仅作为传统渠道并行保留的政策背景与场景命名参照",
       "not_usable_for": "background_only 来源，不得作为本包的法定编制依据或指标来源"
+    },
+    {
+      "id": "CASE-SILICON-VALLEY-STANFORD",
+      "url": "https://engineering.stanford.edu/about/history",
+      "title": "Stanford University and Silicon Valley innovation ecosystem",
+      "publisher": "Stanford University School of Engineering",
+      "accessed_date": "2026-08-10",
+      "source_type": "official_public_background",
+      "authority_level": "B0",
+      "usage": "Global AI ecosystem case: university-capital-enterprise rotation model as innovation benchmark.",
+      "usable_for": "background_only: ecosystem structure comparison and innovation-belt positioning",
+      "not_usable_for": "Not usable as formal evidence for this project's spatial or metric claims"
+    },
+    {
+      "id": "CASE-KINGS-CROSS",
+      "url": "https://www.kingscross.co.uk/the-story",
+      "title": "King's Cross Knowledge Quarter regeneration",
+      "publisher": "King's Cross Central Limited Partnership",
+      "accessed_date": "2026-08-10",
+      "source_type": "official_public_background",
+      "authority_level": "B0",
+      "usage": "Global case: railway-heritage-to-knowledge-community transformation with public-space-first strategy.",
+      "usable_for": "background_only: urban renewal approach comparison, gentrification risk lessons",
+      "not_usable_for": "Not usable as formal evidence; specific metrics and population data not transferred"
+    },
+    {
+      "id": "CASE-MILA-MONTREAL",
+      "url": "https://mila.quebec/en/about",
+      "title": "Mila - Quebec Artificial Intelligence Institute",
+      "publisher": "Mila",
+      "accessed_date": "2026-08-10",
+      "source_type": "official_public_background",
+      "authority_level": "B0",
+      "usage": "Global case: university-led AI cluster with talent-retention policy as ecosystem anchor.",
+      "usable_for": "background_only: talent ecosystem and research-cluster positioning comparison",
+      "not_usable_for": "Not usable as formal evidence for spatial or policy claims in this project"
+    },
+    {
+      "id": "CASE-STATION-F",
+      "url": "https://stationf.co/about",
+      "title": "Station F - World's Largest Startup Campus",
+      "publisher": "Station F SAS",
+      "accessed_date": "2026-08-10",
+      "source_type": "official_public_background",
+      "authority_level": "B0",
+      "usage": "Global case: mega-incubator single-point aggregation model vs distributed multi-anchor approach.",
+      "usable_for": "background_only: spatial organization comparison (single-site vs linear multi-node)",
+      "not_usable_for": "Not usable as formal evidence for this project's capacity or investment claims"
+    },
+    {
+      "id": "CASE-ONE-NORTH-SINGAPORE",
+      "url": "https://www.jtc.gov.sg/find-space/one-north",
+      "title": "one-north: Singapore's R&D hub",
+      "publisher": "JTC Corporation (Singapore Government)",
+      "accessed_date": "2026-08-10",
+      "source_type": "official_public_background",
+      "authority_level": "B0",
+      "usage": "Global case: government-planned mixed-use research district with flexible land-use zoning.",
+      "usable_for": "background_only: flexible zoning and new-town vs old-city renewal comparison",
+      "not_usable_for": "Not usable as formal evidence; new-town model not directly applicable to built-area renewal"
+    },
+    {
+      "id": "CASE-TOKYO-STATION-CITY",
+      "url": "https://www.jreast.co.jp/e/development/station_city.html",
+      "title": "Tokyo Station City integrated station-urban development",
+      "publisher": "East Japan Railway Company",
+      "accessed_date": "2026-08-10",
+      "source_type": "official_public_background",
+      "authority_level": "B0",
+      "usage": "Global case: rail-station-as-urban-node transit-oriented development with vertical complexity.",
+      "usable_for": "background_only: station-city integration concept reference; ground-level public-space trade-off lesson",
+      "not_usable_for": "Not usable as formal evidence; engineering specifics not transferable to this site"
+    },
+    {
+      "id": "CASE-ZHANGJIANG-AI-ISLAND",
+      "url": "https://www.zjpark.com/en/about",
+      "title": "Shanghai Zhangjiang Artificial Intelligence Island",
+      "publisher": "Shanghai Zhangjiang Hi-Tech Park",
+      "accessed_date": "2026-08-10",
+      "source_type": "official_public_background",
+      "authority_level": "B0",
+      "usage": "Global case: AI scenario demonstration cluster within enclosed park boundary.",
+      "usable_for": "background_only: enclosed-park vs open-street AI testing model comparison",
+      "not_usable_for": "Not usable as formal evidence for this project's open-street testing approach"
+    },
+    {
+      "id": "CASE-HETAO-SHENZHEN",
+      "url": "https://www.szns.gov.cn/sznsxxgk/xwzx/zzxx/content/post_11054629.html",
+      "title": "Shenzhen-Hong Kong Hetao Cooperation Zone and Xili Lake Science City",
+      "publisher": "Shenzhen Nanshan District Government",
+      "accessed_date": "2026-08-10",
+      "source_type": "official_public_background",
+      "authority_level": "B0",
+      "usage": "Global case: cross-boundary research collaboration and industry-academy synergy mechanism.",
+      "usable_for": "background_only: cross-regional collaboration model comparison",
+      "not_usable_for": "Not usable as formal evidence; cross-border regulatory specifics not applicable here"
     }
   ]
 }
