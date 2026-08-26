@@ -70,7 +70,7 @@
       "ai_package_stages": {
         "submissions/cf3901646/jingzhang-rising": "formal"
       },
-      "total_bytes": 24019159,
+      "total_bytes": 16477032,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -170,16 +170,16 @@
       "issues": [],
       "summary": {
         "standard_matrix_items": 9,
-        "design_depth_items": 15,
-        "known_metric_refs_required": 30,
+        "design_depth_items": 18,
+        "known_metric_refs_required": 57,
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
-          "source": 11,
+          "source": 14,
           "standard": 9,
-          "depth": 15,
-          "data": 26,
-          "metric": 30
+          "depth": 18,
+          "data": 32,
+          "metric": 45
         }
       }
     },
