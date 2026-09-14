@@ -50,6 +50,15 @@
         "【版面还原与智能抽取】融合 PaddleOCR (PP-Structure) 进行多栏排版识别与表格物理切分，结合 Qwen3.8 强大的上下文推理与泛化能力，攻坚印章遮挡、跨页断表等复杂版式，实现对数百类异构文档的高泛化信息抽取。",
         "【Schema 约束解码与自动填报】制定严格的 JSON Schema 规范与字段校验引擎，通过结构化约束解码（Constrained Decoding）直接输出强类型数据并自动填报至业务系统，字段提取准确率达 98.6%，填报工时缩减 80%+。"
       ]
+    },
+    {
+      "name": "企业级 Text-to-SQL 智能数据问答与多智能体流转系统",
+      "tech": "DeepSeek · Text-to-SQL · Multi-Agent · ERP/物流 API · Python",
+      "time": "2025.07 - 2025.09",
+      "details": [
+        "【自然语言智能取数 (Text-to-SQL)】本地私有化部署 DeepSeek 推理大模型，构建面向非技术人员的业务报表问答系统；精准识别普通话/文字多轮复杂查询意图并自动合成 SQL，极大降低跨部门数据分析取数门槛。",
+        "【多智能体流程自动化 (Agent)】搭建多 Agent 协同售后工作流，自动抽离退换货意图与单据实体，联动内部 ERP 订单系统与外部物流 API 完成工单闭环全自动流转，部门整体交互与自动化效率提升 90%。"
+      ]
     }
   ],
   "education": [
@@ -93,15 +102,15 @@
     "template": "tpl-classic",
     "font": "font-notosanssc-offline",
     "accentColor": "#005f73",
-    "fontSize": 9.8,
-    "lineHeight": 1.38,
-    "paddingY": 8,
+    "fontSize": 9.5,
+    "lineHeight": 1.36,
+    "paddingY": 7,
     "paddingX": 14,
-    "secSpacing": 6,
+    "secSpacing": 5,
     "itemSpacing": 2,
-    "titleSize": 1.12,
+    "titleSize": 1.10,
     "titleWeight": 700,
-    "listIndent": 14,
+    "listIndent": 13,
     "cjkFont": "system",
     "headerAlign": "left",
     "headingStyle": "accent",
