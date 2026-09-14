@@ -1,0 +1,73 @@
+{
+  "selectedTemplate": "modern",
+  "themeColor": "#005f73",
+  "fontFamily": "font-sans",
+  "fontSize": "text-sm",
+  "pageMargins": "normal",
+  "sectionSpacing": "medium",
+  "compact": true,
+  "sectionOrder": "work,projects,custom,education",
+  "titleCaseTitles": false,
+  "contact": {
+    "name": "蒋业臻",
+    "title": "AI 大模型 / 智能体研发工程",
+    "email": "cf3901646@gmail.com",
+    "phone": "18017260537",
+    "location": "上海",
+    "website": "https://github.com/cf3901646"
+  },
+  "skills": [],
+  "work": [
+    {
+      "company": "飞利浦（中国）投资有限公司",
+      "position": "AI 算法与大模型应用实习生",
+      "location": "上海",
+      "startDate": "2026.07",
+      "endDate": "至今",
+      "description": "• 负责飞利浦医疗与商业场景下 AI Agent 与大语言模型（LLM）的工程化落地，支撑企业核心业务智能化升级。\n• 主导销售周报语音助手、本地内网敏感文档私有化抽取填报两大高价值系统的核心研发与调优上线。"
+    }
+  ],
+  "projects": [
+    {
+      "name": "销售周报智能语音助手 (Voice Agent)",
+      "technologies": "WebSocket · FunASR · Qwen · CosyVoice · Silero VAD · 槽位状态机",
+      "startDate": "2026.07",
+      "endDate": "2026.09",
+      "description": "• 架构选型与对比验证：主导语音技术路线评估，对比端到端语音大模型与级联流式方案（Cascaded Pipeline）；立足医疗领域专有名词热词纠偏、周报结构化槽位强约束（Slot Filling）与数据文本可审计性要求，确立并落地全双工级联流式架构。\n• 全双工流式流水线：基于 WebSocket 搭建双向音频流传输通道，串联流式 ASR、大模型流式推理与标点切句流式 TTS，将销售电话交互的首包端到端延迟压缩至 800ms 以内。\n• 毫秒级打断与智能追问：集成 Silero VAD 实现 150ms 抢占式打断（Barge-in）；结合槽位状态机与动态追问决策机制，主动反问引导销售补齐缺失的商机进度与卡点，周报关键字段完整率从 62% 跃升至 95%+。"
+    },
+    {
+      "name": "敏感文档本地私有化信息智能抽取与自动填报系统",
+      "technologies": "NVIDIA GB10 (128G Unified Memory) · PaddleOCR · Qwen3.8-27B-Instruct · vLLM",
+      "startDate": "2026.08",
+      "endDate": "2026.09",
+      "description": "• 硬件算力适配与离线部署：针对医疗与商业敏感数据严禁出局域网的合规要求，在离线 NVIDIA GB10 工作站（128GB 统一内存）上部署 Qwen3.8-27B-Instruct；借助 vLLM 加速与 128G 统一大内存，零 OOM 承载 32k+ 超长上下文 KV Cache。\n• 复杂版面还原与智能抽取：融合 PaddleOCR (PP-Structure) 进行多栏排版识别与表格物理切分，结合 Qwen3.8 强大的上下文推理与泛化能力，攻坚印章遮挡、跨页断表等复杂版式，实现对数百类异构文档的高泛化信息抽取。\n• Schema 约束解码与自动填报：制定严格的 JSON Schema 规范与字段校验引擎，通过结构化约束解码（Constrained Decoding）直接输出结构化数据并自动填报至业务系统，字段提取准确率达到 98.6%，填报工时缩减 80%+。"
+    }
+  ],
+  "custom": {
+    "title": "开源贡献与工程实践",
+    "items": [
+      {
+        "title": "Turborepo Remote Cache (Go 语言重构)",
+        "subtitle": "核心贡献者 (1.5k+ Stars)",
+        "date": "2026.05 - 2026.06",
+        "description": "• 重构远程缓存核心分块存储与并发读写逻辑，采用 Go 语言优化网络 I/O 与内存对象池，引入 Docker 多阶段构建与 CI/CD 自动化流水线。\n• 在并发基准测试中使服务吞吐量提升 35% 以上，内存开销降低 28%，代码已被官方合并。"
+      },
+      {
+        "title": "Hoppscotch (开源 API 协作开发平台)",
+        "subtitle": "开源贡献者 (80k+ Stars)",
+        "date": "2026.06",
+        "description": "• 贡献前端核心网络解析模块，修复在复杂边缘场景下包含特殊转义字符与成对双引号 URL 的解析容错缺陷。\n• 编写完整的 Jest 单元测试用例提升边缘覆盖率，显著增强了 API 调试客户端在畸形协议下的鲁棒性，PR 已合并。"
+      }
+    ]
+  },
+  "education": [
+    {
+      "school": "上海对外经贸大学",
+      "degree": "本科 · 数据科学与大数据技术",
+      "location": "上海",
+      "startDate": "2023.09",
+      "endDate": "2027.06",
+      "description": "• 核心课程：数据结构与算法、机器学习、深度学习、概率论与数理统计、操作系统、数据库系统原理\n• 综合素质：校级优秀学生奖学金、算法与程序设计竞赛奖项，具备扎实的数据结构与全栈/后端工程基础"
+    }
+  ]
+}
