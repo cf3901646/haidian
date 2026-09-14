@@ -16,8 +16,17 @@
       "role": "AI 算法与大模型应用实习生",
       "time": "2026.07 - 至今",
       "details": [
-        "【业务职责】负责飞利浦医疗与商业场景下 AI Agent 与大语言模型（LLM）的工程化落地，支撑企业核心业务智能化升级。",
-        "【核心产出】主导销售周报智能语音助手（Voice Agent）、本地局域网敏感文档私有化抽取填报两大高价值系统的全流程研发与调优上线。"
+        "【业务定位】负责飞利浦医疗与商业场景下 AI Agent 与大语言模型（LLM）的工程化落地，赋能核心业务智能化升级。",
+        "【核心产出】主导销售周报智能语音助手（Voice Agent）、本地局域网敏感文档私有化抽取填报两大核心系统的全链路研发与上线。"
+      ]
+    },
+    {
+      "company": "利安隆供应链管理有限公司 (AI 研发中心)",
+      "role": "大语言模型与内容理解算法研发实习生",
+      "time": "2025.07 - 2025.09",
+      "details": [
+        "【AI 智能数据查询】本地部署 DeepSeek 推理大模型，搭建 Text-to-SQL 业务报表自然语言问答系统；支持普通话/文字实时查询与多表关联合成，极大降低非技术人员取数门槛。",
+        "【流程自动化 Agent】构建多智能体协同客服工作流；自动识别退换货意图，打通内部订单系统与外部物流 API 完成工单全流程自动流转，部门业务交互与自动化效率提升 90%。"
       ]
     }
   ],
@@ -84,21 +93,21 @@
     "template": "tpl-classic",
     "font": "font-notosanssc-offline",
     "accentColor": "#005f73",
-    "fontSize": 10.2,
-    "lineHeight": 1.42,
-    "paddingY": 10,
-    "paddingX": 15,
-    "secSpacing": 7,
-    "itemSpacing": 3,
-    "titleSize": 1.15,
+    "fontSize": 9.8,
+    "lineHeight": 1.38,
+    "paddingY": 8,
+    "paddingX": 14,
+    "secSpacing": 6,
+    "itemSpacing": 2,
+    "titleSize": 1.12,
     "titleWeight": 700,
-    "listIndent": 15,
+    "listIndent": 14,
     "cjkFont": "system",
     "headerAlign": "left",
     "headingStyle": "accent",
     "contactIcons": "show",
-    "sectionOrder": "summary,work,projects,custom,education",
-    "hiddenSections": "skills",
+    "sectionOrder": "work,projects,custom,education",
+    "hiddenSections": "skills,summary",
     "sidebarSections": ""
   }
 }
