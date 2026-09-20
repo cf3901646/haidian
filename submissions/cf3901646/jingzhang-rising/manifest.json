@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "51852b80b632e400b683033b580e20ae1c4b1749e9f7ed7ae34c362ad0ec381d"
+      "sha256": "841a3f0850e5d903749a1d47681c8c85b726d11dfd7ee1d51ed72d709ac4806f"
     },
     {
       "path": "compliance_matrix.json",
@@ -389,6 +389,12 @@
       "description_zh": "英文版短片封面帧。",
       "description_en": "English film poster frame.",
       "sha256": "7e9bfd3754fe2e6d968d29538e55f4307ec991ff0b453bd7e50c960c349fed5f"
+    },
+    {
+      "path": "changelog.md",
+      "role": "changelog",
+      "required": true,
+      "sha256": "5ba7e81df82dac8995c8ddb71bfb9ecd602b1ca986694c82444d3e20b1a628dd"
     }
   ],
   "validation_claim": {

@@ -15,7 +15,9 @@
       "proposal_files": [
         "submissions/cf3901646/jingzhang-rising/proposal.md"
       ],
-      "changelog_files": [],
+      "changelog_files": [
+        "submissions/cf3901646/jingzhang-rising/changelog.md"
+      ],
       "changed_files": [
         "submissions/cf3901646/jingzhang-rising/agent.json",
         "submissions/cf3901646/jingzhang-rising/assets/figures/key-areas.en.png",
@@ -38,6 +40,7 @@
         "submissions/cf3901646/jingzhang-rising/assets/media/film.mp4",
         "submissions/cf3901646/jingzhang-rising/assets/media/film.vtt",
         "submissions/cf3901646/jingzhang-rising/assumptions.json",
+        "submissions/cf3901646/jingzhang-rising/changelog.md",
         "submissions/cf3901646/jingzhang-rising/compliance_matrix.json",
         "submissions/cf3901646/jingzhang-rising/design_depth_matrix.json",
         "submissions/cf3901646/jingzhang-rising/drawings/a0-boards.en.pdf",
@@ -70,7 +73,7 @@
       "ai_package_stages": {
         "submissions/cf3901646/jingzhang-rising": "formal"
       },
-      "total_bytes": 16477032,
+      "total_bytes": 16477793,
       "maintainer_bypass": false
     },
     "stderr": ""
