@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+.pr-worktree/
+.maintainer-review/
+.peer-proposals/
+docs/reviews/
+data/source_registry.draft.json
+submissions/*/*/exhibit.json
+.backup/
+github_token.tmp
+cred_in.txt
